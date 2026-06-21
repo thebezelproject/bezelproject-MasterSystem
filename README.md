@@ -9,4 +9,4 @@ The bezel packs are used in a RetroPie build for providing game bezels.
 
 The graphics in this repository follow the following design.
 
-![Sample bezel](https://github.com/thebezelproject/bezelproject-MasterSystem/blob/master/retroarch/overlay/GameBezels/MasterSystem/Action%20Fighter%20(USA%2C%20Europe).png?raw=true)
+![Sample bezel](https://github.com/thebezelproject/bezelproject-MasterSystem/blob/master/retroarch/overlay/GameBezels/MasterSystem/Aleste%20(Japan)%20(En).png?raw=true)
